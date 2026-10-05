@@ -1,0 +1,206 @@
+Order_ID,Order_Date,Shipping_Mode,Region,Customer_Segment,Product_Category,Shipment_Quantity,Product_Price,Shipping_Cost,Scheduled_Shipping_Days,Actual_Shipping_Days,Customer_Rating
+ORD10001,2026-01-01,Standard Class,South,Consumer,Clothing,5,760.7,32.18,1,2,2.0
+ORD10002,2026-01-02,Same Day,South,Consumer,Sports,2,415.19,146.73,1,1,3.0
+ORD10003,2026-01-03,Second Class,Central,Consumer,Electronics,10,184.34,69.91,2,4,5.0
+ORD10004,2026-01-04,First Class,West,Corporate,Electronics,6,956.95,64.39,4,6,5.0
+ORD10005,,Standard Class,South,Corporate,Electronics,5,751.69,85.43,3,3,1.0
+ORD10006,2026-01-06,Standard Class,South,Home Office,Electronics,6,649.48,12.28,3,3,4.0
+ORD10007,2026-01-07,Standard Class,East,Consumer,Office Supplies,1,1074.79,30.77,2,4,4.0
+ORD10008,2026-01-08,Second Class,South,Consumer,Electronics,5,950.54,119.4,4,5,5.0
+ORD10009,2026-01-09,First Class,South,Corporate,Office Supplies,9,198.98,17.83,3,5,3.0
+ORD10010,2026-01-10,Second Class,East,Consumer,Office Supplies,10,387.83,98.49,1,3,2.0
+ORD10011,2026-01-11,Standard Class,Central,Consumer,Electronics,2,313.22,43.03,3,5,3.0
+ORD10012,2026-01-12,Same Day,South,Consumer,Electronics,1,7500.0,65.34,1,1,2.0
+ORD10013,2026-01-13,Second Class,,Consumer,Clothing,10,59.57,49.75,2,2,5.0
+ORD10014,2026-01-14,Standard Class,West,Home Office,Sports,9,692.47,1500.0,1,2,2.0
+ORD10015,2026-01-15,Standard Class,Central,Corporate,Electronics,10,919.7,116.45,3,3,4.0
+ORD10016,2026-01-16,Standard Class,West,Corporate,Clothing,9,1054.58,51.05,3,3,1.0
+ORD10017,2026-01-17,Standard Class,West,Consumer,Clothing,9,423.66,92.79,3,3,1.0
+ORD10018,2026-01-18,First Class,East,Consumer,Sports,6,989.08,78.79,2,2,5.0
+ORD10019,2026-01-19,Standard Class,South,Consumer,Office Supplies,8,150.55,107.87,2,3,4.0
+ORD10020,2026-01-20,Standard Class,East,Consumer,Electronics,1,1018.81,150.21,4,6,3.0
+ORD10021,2026-01-21,First Class,East,Consumer,Sports,10,170.44,118.55,3,4,4.0
+ORD10022,2026-01-22,Standard Class,East,Corporate,Electronics,4,488.8,,1,1,1.0
+ORD10023,2026-01-23,Standard Class,East,Corporate,Clothing,1,960.81,9.83,2,2,1.0
+ORD10024,2026-01-24,Standard Class,Central,Consumer,Clothing,8,196.9,45.65,3,4,4.0
+ORD10025,2026-01-25,Standard Class,South,Home Office,Office Supplies,1,290.52,97.24,3,3,4.0
+ORD10026,2026-01-26,Second Class,West,Corporate,Clothing,3,872.26,12.97,2,4,1.0
+ORD10027,2026-01-27,Standard Class,West,Corporate,Clothing,4,869.64,81.94,4,4,3.0
+ORD10028,2026-01-28,First Class,South,Corporate,Sports,8,776.55,97.51,2,3,5.0
+ORD10029,2026-01-29,,West,Consumer,Electronics,6,838.86,56.81,2,4,5.0
+ORD10030,2026-01-30,Standard Class,South,Consumer,Electronics,10,660.41,,1,2,4.0
+ORD10031,2026-01-31,First Class,West,Consumer,Sports,7,317.12,21.52,1,2,5.0
+ORD10032,2026-02-01,Standard Class,East,Corporate,Office Supplies,8,427.92,16.65,4,5,1.0
+ORD10033,2026-02-02,Standard Class,West,Consumer,Electronics,2,234.29,117.87,3,4,1.0
+ORD10034,2026-02-03,Same day,South,Consumer,Clothing,10,1091.97,81.8,2,2,4.0
+ORD10035,2026-02-04,Same Day,South,Consumer,Electronics,8,708.4,111.7,4,3,4.0
+ORD10036,2026-02-05,Second Class,South,Consumer,Clothing,3,493.0,72.4,1,1,4.0
+ORD10037,2026-02-06,Standard Class,South,Home Office,Office Supplies,7,565.17,43.19,2,1,3.0
+ORD10038,2026-02-07,Standard Class,South,Corporate,Sports,3,1137.79,131.96,3,5,5.0
+ORD10039,2026-02-08, second class ,Central,Consumer,Electronics,7,200.95,128.91,1,1,4.0
+ORD10040,2026-02-09, second class ,Central,Consumer,Sports,2,711.75,112.68,1,1,2.0
+ORD10041,2026-02-10,Standard Class,West,Consumer,Electronics,10,616.95,47.18,1,1,2.0
+ORD10042,2026-02-11,First Class,South,Consumer,Clothing,6,741.52,96.49,4,5,
+ORD10043,2026-02-12,Standard Class,West,Consumer,Sports,3,41.37,60.95,3,3,5.0
+ORD10044,2026-02-13,Second Class,South,Consumer,Electronics,3,1049.11,19.2,2,1,4.0
+ORD10045,2026-02-14,Standard Class,South,Consumer,Clothing,9,1119.9,147.18,4,4,2.0
+ORD10046,2026-02-15,First Class,Central,Corporate,Sports,7,686.86,,4,4,5.0
+ORD10047,2026-02-16,Standard Class,Central,Corporate,Sports,5,842.05,152.29,4,5,1.0
+ORD10048,,First Class,East,Consumer,Electronics,10,1108.55,74.13,1,1,3.0
+ORD10049,2026-02-18,First Class,Central,Consumer,Electronics,7,854.54,33.7,3,3,5.0
+ORD10050,2026-02-19,Standard Class,East,Corporate,Electronics,9,200.0,88.99,4,4,5.0
+ORD10051,2026-02-20,Same Day,East,Consumer,Clothing,1,700.02,140.31,2,2,3.0
+ORD10052,2026-02-21,Second Class,East,Home Office,Electronics,7,735.92,118.49,3,3,5.0
+ORD10053,2026-02-22,Same Day,East,Corporate,Sports,6,520.47,130.02,2,4,1.0
+ORD10054,2026-02-23,Second Class,East,Consumer,Sports,10,889.0,107.11,3,3,1.0
+ORD10055,2026-02-24,First Class,West,Consumer,Electronics,9,1122.55,112.3,2,1,3.0
+ORD10056,2026-02-25,Second Class,Central,Corporate,Electronics,1,1112.17,136.63,1,1,4.0
+ORD10057,2026-02-26,Standard Class,East,Consumer,Office Supplies,4,551.99,43.7,4,4,2.0
+ORD10058,2026-02-27,Standard Class,South,Corporate,Sports,9,153.62,80.86,2,2,4.0
+ORD10059,2026-02-28,Standard Class,Central,Home Office,Clothing,4,1182.11,39.29,3,3,5.0
+ORD10060,2026-03-01,Standard Class,Central,Corporate,Office Supplies,10,1009.9,158.09,4,3,2.0
+ORD10061,2026-03-02,Standard Class,East,Consumer,Electronics,3,167.1,151.33,4,6,3.0
+ORD10062,2026-03-03,Standard Class,central,Corporate,Electronics,9,1106.59,11.11,3,3,3.0
+ORD10063,2026-03-04,Second Class,East,Consumer,Sports,2,1046.48,114.36,2,3,2.0
+ORD10064,2026-03-05,Standard Class,West,Consumer,Electronics,4,632.23,148.41,1,3,1.0
+ORD10065,2026-03-06,Standard Class,South,Home Office,Clothing,6,717.71,32.99,1,1,2.0
+ORD10066,2026-03-07,First Class,Central,Consumer,Sports,2,490.82,93.03,2,2,5.0
+ORD10067,2026-03-08,Standard Class, west ,Home Office,Electronics,8,84.62,146.9,4,4,1.0
+ORD10068,2026-03-09,Second Class,West,Home Office,Sports,8,415.53,10.26,4,4,3.0
+ORD10069,2026-03-10,Standard Class,West,Consumer,Electronics,1,967.37,113.1,4,3,2.0
+ORD10070,2026-03-11,Same Day,South,Consumer,Electronics,3,25.47,51.09,4,6,
+ORD10071,2026-03-12,Second Class,West,Consumer,Electronics,10,413.53,148.28,2,3,4.0
+ORD10072,2026-03-13,Standard Class,South,Consumer,Clothing,9,489.84,155.51,4,3,5.0
+ORD10073,2026-03-14,Standard Class,Central,Consumer,Clothing,5,654.13,151.36,3,4,4.0
+ORD10074,2026-03-15,Second Class,South,Corporate,Sports,6,1105.43,,4,5,2.0
+ORD10075,2026-03-16,Second Class,Central,Consumer,Electronics,4,428.69,138.62,1,3,2.0
+ORD10076,2026-03-17,Second Class,South,Consumer,Electronics,10,429.4,135.91,4,4,4.0
+ORD10077,2026-03-18,Second Class,West,Corporate,Clothing,2,890.25,,2,2,2.0
+ORD10078,2026-03-19,,South,Consumer,Electronics,8,553.62,133.48,1,3,5.0
+ORD10079,2026-03-20,Standard Class,West,Corporate,Clothing,6,285.03,10.74,2,2,1.0
+ORD10080,2026-03-21,Standard Class,South,Consumer,Electronics,5,553.88,720.0,2,2,5.0
+ORD10081,2026-03-22,Second Class,South,Consumer,Sports,9,186.21,40.65,1,1,5.0
+ORD10082,2026-03-23,First Class,East,Corporate,Electronics,1,228.14,23.69,2,3,2.0
+ORD10083,2026-03-24,Standard Class,West,Corporate,Electronics,5,608.07,16.93,2,3,
+ORD10084,2026-03-25,Standard Class,East,Home Office,Office Supplies,6,514.33,112.92,4,5,2.0
+ORD10085,2026-03-26,Standard Class,West,Corporate,Clothing,5,1099.52,57.68,3,2,3.0
+ORD10086,2026-03-27,Standard Class,East,Corporate,Electronics,6,447.62,117.34,2,3,2.0
+ORD10087,2026-03-28,Second Class,Central,Consumer,Electronics,6,705.09,15.13,2,1,2.0
+ORD10088,2026-03-29,First Class,South,Consumer,Office Supplies,7,766.07,53.87,2,2,2.0
+ORD10089,2026-03-30,standard class,West,Corporate,Office Supplies,4,35.45,88.62,4,4,1.0
+ORD10090,2026-03-31,Standard Class,West,Corporate,Clothing,8,802.97,127.56,3,5,2.0
+ORD10091,2026-04-01,Standard Class,South,Home Office,Office Supplies,7,230.08,54.41,1,2,1.0
+ORD10092,2026-04-02,Second Class,West,Consumer,Sports,9,1154.06,102.01,4,4,4.0
+ORD10093,2026-04-03,Second Class,West,Consumer,Office Supplies,7,195.42,142.33,4,4,3.0
+ORD10094,2026-04-04,First Class,East,Corporate,Sports,3,509.26,100.46,3,3,1.0
+ORD10095,2026-04-05,Second Class,West,Consumer,Clothing,3,120.71,41.11,3,4,4.0
+ORD10096,2026-04-06,First Class,Central,Home Office,Clothing,8,1196.31,8.78,4,5,1.0
+ORD10097,2026-04-07,First Class,Central,Home Office,Clothing,5,612.59,139.87,1,3,1.0
+ORD10098,2026-04-08,Standard Class,,Consumer,Clothing,4,722.55,8.3,4,3,3.0
+ORD10099,2026-04-09,Standard Class,West,Corporate,Clothing,8,99.15,140.58,3,2,5.0
+ORD10100,2026-04-10,Standard Class,South,Corporate,Sports,6,904.95,86.99,1,1,
+ORD10101,2026-04-11,Standard Class, South ,Consumer,Sports,2,267.69,150.56,3,5,1.0
+ORD10102,2026-04-12,First Class,West,Home Office,Clothing,4,1079.7,128.81,1,1,
+ORD10103,2026-04-13,Standard Class,West,Consumer,Office Supplies,4,262.06,159.68,2,3,4.0
+ORD10104,2026-04-14,First Class,South,Corporate,Electronics,6,245.01,59.36,3,3,2.0
+ORD10105,2026-04-15,Second Class,Central,Consumer,Clothing,6,63.13,123.91,3,3,2.0
+ORD10106,2026-04-16,Standard Class,West,Home Office,Office Supplies,1,577.04,67.3,4,4,1.0
+ORD10107,2026-04-17,Standard Class,South,Consumer,Electronics,8,686.51,79.38,3,4,1.0
+ORD10108,2026-04-18,Second Class,Central,Consumer,Clothing,6,97.54,102.26,3,3,1.0
+ORD10109,2026-04-19,Standard Class,South,Home Office,Clothing,3,935.12,140.42,2,4,1.0
+ORD10110,2026-04-20,Standard Class,East,Consumer,Sports,9,554.88,157.53,3,4,5.0
+ORD10111,2026-04-21, second class ,West,Consumer,Electronics,2,638.78,124.08,2,3,1.0
+ORD10112,2026-04-22,standard class,East,Home Office,Electronics,8,540.1,69.75,2,2,5.0
+ORD10113,2026-04-23,Second Class,Central,Home Office,Office Supplies,10,492.9,70.31,2,3,5.0
+ORD10114,2026-04-24,Second Class,East,Corporate,Sports,3,680.38,119.33,2,1,1.0
+ORD10115,2026-04-25,First Class,East,Corporate,Sports,5,203.18,42.01,1,1,3.0
+ORD10116,2026-04-26,Second Class,Central,Consumer,Sports,6,234.68,22.12,4,4,4.0
+ORD10117,2026-04-27,Second Class,South,Consumer,Sports,10,1036.91,59.97,1,1,2.0
+ORD10118,2026-04-28,Standard Class,East,Consumer,Electronics,6,1136.42,,3,2,5.0
+ORD10119,2026-04-29,Second Class,South,Corporate,Electronics,4,460.5,50.93,1,1,4.0
+ORD10120,2026-04-30,First Class,East,Corporate,Clothing,3,339.48,41.21,1,2,3.0
+ORD10121,2026-05-01,Second Class,South,Corporate,Clothing,4,779.92,11.52,3,2,2.0
+ORD10122,2026-05-02,Second Class,Central,Corporate,Sports,1,502.31,7.77,3,5,2.0
+ORD10123,2026-05-03,Standard Class,,Consumer,Sports,4,49.96,158.1,3,3,5.0
+ORD10124,2026-05-04,Standard Class,Central,Consumer,Sports,1,204.26,,1,2,1.0
+ORD10125,2026-05-05,Standard Class,East,Consumer,Clothing,1,864.85,64.57,1,1,3.0
+ORD10126,2026-05-06,Standard Class,Central,Consumer,Office Supplies,10,797.53,110.35,3,3,5.0
+ORD10127,2026-05-07,Second Class,,Consumer,Office Supplies,6,51.97,38.83,4,4,3.0
+ORD10128,2026-05-08,standard class,East,Home Office,Clothing,5,281.93,152.24,4,4,1.0
+ORD10129,2026-05-09,Standard Class,East,Consumer,Clothing,4,292.67,126.88,2,3,1.0
+ORD10130,2026-05-10,First Class,East,Consumer,Clothing,3,812.83,18.86,3,3,5.0
+ORD10131,2026-05-11,Standard Class,West,Consumer,Clothing,1,43.26,69.73,2,2,1.0
+ORD10132,2026-05-12,Standard Class,South,Corporate,Clothing,6,142.85,141.26,4,5,4.0
+ORD10133,2026-05-13,Standard Class,West,Corporate,Clothing,2,963.9,151.43,2,3,2.0
+ORD10134,2026-05-14,Standard Class,West,Consumer,Sports,8,230.68,77.45,3,3,5.0
+ORD10135,2026-05-15,Same Day,Central,Consumer,Sports,10,790.24,100.08,3,3,3.0
+ORD10136,2026-05-16,Standard Class,East,Corporate,Sports,5,301.06,30.89,3,4,4.0
+ORD10137,2026-05-17,First Class,South,Consumer,Sports,7,137.34,158.63,1,1,5.0
+ORD10138,2026-05-18,Second Class,Central,Corporate,Clothing,10,306.94,40.91,2,3,1.0
+ORD10139,2026-05-19,Standard Class,West,Corporate,Office Supplies,2,872.27,151.12,4,4,1.0
+ORD10140,2026-05-20, second class ,East,Consumer,Electronics,8,1029.72,105.7,4,4,1.0
+ORD10141,2026-05-21,Same Day,Central,Consumer,Clothing,2,999.66,99.2,4,5,1.0
+ORD10142,2026-05-22,,East,Home Office,Electronics,4,488.68,84.47,1,2,3.0
+ORD10143,2026-05-23,First Class,Central,Consumer,Office Supplies,1,808.34,40.75,1,1,4.0
+ORD10144,2026-05-24,standard class,East,Consumer,Sports,5,261.88,32.36,3,5,2.0
+ORD10145,2026-05-25,Standard Class,West,Corporate,Office Supplies,9,365.91,39.18,4,4,
+ORD10146,2026-05-26,Standard Class,South,Home Office,Clothing,1,10000.0,33.9,1,1,3.0
+ORD10147,2026-05-27,First Class,West,Home Office,Sports,9,35.34,125.84,3,4,2.0
+ORD10148,2026-05-28,First Class,South,Corporate,Clothing,8,120.9,59.27,4,3,2.0
+ORD10149,2026-05-29,Standard Class,East,Consumer,Sports,6,265.31,1100.0,2,2,1.0
+ORD10150,2026-05-30,Standard Class,Central,Consumer,Electronics,7,51.31,155.21,3,3,3.0
+ORD10151,2026-05-31,Second Class,West,Corporate,Electronics,3,234.09,141.99,1,3,5.0
+ORD10152,2026-06-01,Standard Class,South,Corporate,Electronics,1,707.99,148.8,1,2,2.0
+ORD10153,2026-06-02,Standard Class,West,Consumer,Office Supplies,5,517.28,159.21,3,3,2.0
+ORD10154,2026-06-03,First Class,South,Home Office,Clothing,2,1073.35,31.95,3,4,4.0
+ORD10155,2026-06-04,Same Day, South ,Consumer,Office Supplies,5,984.58,66.42,1,1,5.0
+ORD10156,2026-06-05,Standard Class,South,Consumer,Electronics,8,423.34,122.53,2,2,5.0
+ORD10157,2026-06-06,First Class,South,Consumer,Clothing,9,326.12,112.88,4,4,2.0
+ORD10158,2026-06-07,Second Class,East,Consumer,Electronics,2,468.04,28.85,2,3,1.0
+ORD10159,2026-06-08,Standard Class,South,Consumer,Office Supplies,3,716.55,,3,4,4.0
+ORD10160,2026-06-09,Second Class,East,Consumer,Office Supplies,3,336.32,39.79,2,3,5.0
+ORD10161,2026-06-10,Standard Class,South,Consumer,Office Supplies,1,756.5,39.69,1,3,2.0
+ORD10162,2026-06-11,First Class,Central,Corporate,Electronics,8,503.11,88.23,3,5,5.0
+ORD10163,2026-06-12,First Class, west ,Corporate,Clothing,6,671.42,96.91,4,3,4.0
+ORD10164,2026-06-13,standard class,Central,Corporate,Clothing,8,534.63,94.91,1,3,4.0
+ORD10165,2026-06-14,Standard Class,South,Home Office,Electronics,9,367.47,19.18,1,1,3.0
+ORD10166,2026-06-15,Second Class,East,Consumer,Clothing,5,1139.17,141.01,4,5,2.0
+ORD10167,2026-06-16,Standard Class,East,Consumer,Electronics,3,921.05,46.17,4,5,4.0
+ORD10168,2026-06-17,Standard Class,South,Home Office,Clothing,5,185.33,25.07,2,1,3.0
+ORD10169,2026-06-18,Standard Class,Central,Consumer,Sports,5,1044.79,900.0,3,5,3.0
+ORD10170,2026-06-19,First Class,Central,Home Office,Sports,5,595.17,153.13,4,4,5.0
+ORD10171,2026-06-20,First Class,East,Consumer,Office Supplies,3,1075.57,138.63,4,3,5.0
+ORD10172,2026-06-21,Standard Class,Central,Home Office,Sports,10,963.83,130.47,3,3,3.0
+ORD10173,2026-06-22,Same day,West,Consumer,Sports,4,521.75,106.56,4,4,5.0
+ORD10174,2026-06-23,Standard Class,East,Home Office,Sports,9,46.51,90.38,4,4,4.0
+ORD10175,2026-06-24,First Class,Central,Consumer,Electronics,10,6000.0,18.48,2,3,1.0
+ORD10176,2026-06-25,Standard Class,East,Home Office,Sports,9,659.13,68.31,1,2,4.0
+ORD10177,2026-06-26,Second Class,West,Consumer,Sports,2,767.5,650.0,1,3,3.0
+ORD10178,2026-06-27,Standard Class,East,Corporate,Office Supplies,8,324.31,45.26,1,1,3.0
+ORD10179,2026-06-28,Same Day,East,Home Office,Sports,8,184.44,117.13,1,1,4.0
+ORD10180,2026-06-29,Standard Class,central,Consumer,Sports,7,1005.22,81.86,4,5,5.0
+ORD10181,2026-06-30,Standard Class,East,Corporate,Clothing,8,1181.59,17.56,3,4,5.0
+ORD10182,2026-07-01,Standard Class,West,Corporate,Office Supplies,3,640.31,39.13,3,3,3.0
+ORD10183,2026-07-02,Second Class,South,Consumer,Office Supplies,6,222.58,110.91,2,2,2.0
+ORD10184,2026-07-03,Second Class,East,Corporate,Office Supplies,1,341.32,16.8,2,1,5.0
+ORD10185,2026-07-04,Standard Class, west ,Corporate,Office Supplies,7,41.7,136.94,4,3,4.0
+ORD10186,2026-07-05,First Class, west ,Home Office,Office Supplies,1,1098.87,81.75,3,4,5.0
+ORD10187,2026-07-06,Second Class,East,Consumer,Office Supplies,9,158.95,79.49,3,4,4.0
+ORD10188,2026-07-07,First Class,Central,Consumer,Electronics,1,700.29,96.82,1,1,3.0
+ORD10189,2026-07-08,First Class,South,Home Office,Sports,1,343.39,132.83,4,5,5.0
+ORD10190,2026-07-09,Standard Class,West,Home Office,Office Supplies,7,673.93,58.91,4,5,4.0
+ORD10191,2026-07-10,Standard Class,West,Consumer,Sports,2,788.68,110.09,1,1,3.0
+ORD10192,2026-07-11,Second Class,South,Corporate,Sports,5,999.1,92.69,4,6,2.0
+ORD10193,2026-07-12,Second Class,West,Consumer,Electronics,8,263.58,46.39,4,3,4.0
+ORD10194,2026-07-13,First Class,South,Consumer,Office Supplies,8,32.98,141.19,2,3,2.0
+ORD10195,2026-07-14,Standard Class,South,Consumer,Clothing,3,181.53,128.6,3,3,2.0
+ORD10196,2026-07-15,Standard Class,South,Consumer,Electronics,7,1082.02,107.06,4,5,1.0
+ORD10197,2026-07-16,Second Class,West,Corporate,Clothing,3,1051.19,136.84,2,2,5.0
+ORD10198,2026-07-17,Second Class,Central,Consumer,Sports,6,724.95,139.43,3,3,4.0
+ORD10199,2026-07-18,standard class,South,Home Office,Sports,6,728.61,114.8,1,2,2.0
+ORD10200,,Second Class,East,Home Office,Electronics,3,804.74,134.74,2,3,1.0
+ORD10087,2026-03-28,Second Class,Central,Consumer,Electronics,6,705.09,15.13,2,1,2.0
+ORD10121,2026-05-01,Second Class,South,Corporate,Clothing,4,779.92,11.52,3,2,2.0
+ORD10023,2026-01-23,Standard Class,East,Corporate,Clothing,1,960.81,9.83,2,2,1.0
+ORD10012,2026-01-12,Same Day,South,Consumer,Electronics,1,7500.0,65.34,1,1,2.0
+ORD10196,2026-07-15,Standard Class,South,Consumer,Electronics,7,1082.02,107.06,4,5,1.0
